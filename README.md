@@ -2,7 +2,7 @@
 
 Data, materials and SPSS syntax for empirical paper, "Empathy and humanitarianism predict preferential moral responsiveness to in-groups and out-groups", published in The Journal of Social Psychology.
 
-All files copied directly from the Open Science Framework page at https://osf.io/ygy5e/. Access the pre-print manuscript at https://lizredford.weebly.com/uploads/4/9/3/2/49329541/rr.emp.hum.groupmoral.pdf and the journal version at https://www.tandfonline.com/doi/abs/10.1080/00224545.2017.1412933?journalCode=vsoc20 (paywalled).
+All files copied directly from the <a href = "https://osf.io/ygy5e/">Open Science Framework page</a>. Access the pre-print manuscript <a href = "https://lizredford.weebly.com/uploads/4/9/3/2/49329541/rr.emp.hum.groupmoral.pdf">here</a> and the journal version <a href = "https://www.tandfonline.com/doi/abs/10.1080/00224545.2017.1412933?journalCode=vsoc20">here</a> (paywalled).
 
 Abstract:
 
@@ -11,8 +11,6 @@ Studies 1 and 2, empathy and humanitarianism differentially predicted preferenti
 
 Figure 2 from manuscript: Mediation effects of empathy and humanitarianism on donation allocations via in-group obligation and out-group obligation in Study 5. Coefficients represent unstandardized regression weights and correlation coefficients. 
 
-![](https://github.com/lizredford/empathy-humanitarianism-prosociality/raw/master/emp.pathmodels.png)
-
-<img src="https://github.com/lizredford/empathy-humanitarianism-prosociality/raw/master/emp.pathmodels.png" width="48">
+<img src="https://github.com/lizredford/empathy-humanitarianism-prosociality/raw/master/emp.pathmodels.png" width="480">
 
 Parenthesized values indicate raw direct effects. * = p < .01; ** = p < .001
