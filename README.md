@@ -2,7 +2,7 @@
 
 Data, materials and SPSS syntax for empirical paper, "Empathy and humanitarianism predict preferential moral responsiveness to in-groups and out-groups", published in The Journal of Social Psychology, by Liz Redford and Kate A. Ratliff.
 
-All files copied directly from the <a href = "https://osf.io/ygy5e/">Open Science Framework page</a>. Access the pre-print manuscript <a href = "https://lizredford.weebly.com/uploads/4/9/3/2/49329541/rr.emp.hum.groupmoral.pdf">here</a> and the journal version <a href = "https://www.tandfonline.com/doi/abs/10.1080/00224545.2017.1412933?journalCode=vsoc20">here</a> (paywalled).
+All files copied directly from the <a href = "https://osf.io/ygy5e/">Open Science Framework page</a>. Access the pre-print manuscript <a href = "https://lizredford.weebly.com/uploads/4/9/3/2/49329541/rr.emp.hum.groupmoral.pdf">here</a> or in this repo, and the journal version <a href = "https://www.tandfonline.com/doi/abs/10.1080/00224545.2017.1412933?journalCode=vsoc20">here</a> (paywalled).
 
 Abstract:
 
