@@ -11,6 +11,6 @@ Studies 1 and 2, empathy and humanitarianism differentially predicted preferenti
 
 Figure 2 from manuscript: Mediation effects of empathy and humanitarianism on donation allocations via in-group obligation and out-group obligation in Study 5. Coefficients represent unstandardized regression weights and correlation coefficients. 
 
-<img src="https://github.com/lizredford/empathy-humanitarianism-prosociality/raw/master/emp.pathmodels.png" width="480">
+<img src="https://github.com/lizredford/empathy-humanitarianism-prosociality/raw/master/emp.pathmodels.png" width="550">
 
-Parenthesized values indicate raw direct effects. * = p < .01; ** = p < .001
+Parenthesized values indicate raw direct effects. * = p < .01; ** = p < .001. Full size in repo and in manuscript.
