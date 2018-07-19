@@ -5,8 +5,8 @@ Data, materials and SPSS syntax for empirical paper, "Empathy and humanitarianis
 All files copied directly from the <a href = "https://osf.io/ygy5e/">Open Science Framework page</a>. Access the pre-print manuscript <a href = "https://lizredford.weebly.com/uploads/4/9/3/2/49329541/rr.emp.hum.groupmoral.pdf">here</a> or in this repo, and the journal version <a href = "https://www.tandfonline.com/doi/abs/10.1080/00224545.2017.1412933?journalCode=vsoc20">here</a> (paywalled).
 
 <b>Notes on using these files:</b>
-⋅⋅* Only the cleaned dataset is provided because raw data files contain sensitive, confidential information (IP addresses and potentially-identifying demographic information). The data files are SPSS files.
-⋅⋅* The experiment files files were used to run the studies on Project Implicit. These can be used as a codebook to understand what items are available in the dataset. Use a text editor to open them (notepad, notepad++, komodo edit).
+⋅⋅*Only the cleaned dataset is provided because raw data files contain sensitive, confidential information (IP addresses and potentially-identifying demographic information). The data files are SPSS files.
+⋅⋅*The experiment files files were used to run the studies on Project Implicit. These can be used as a codebook to understand what items are available in the dataset. Use a text editor to open them (notepad, notepad++, komodo edit).
 
 <b>Abstract:</b>
 
