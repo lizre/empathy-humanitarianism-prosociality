@@ -6,7 +6,8 @@ All files copied directly from the <a href = "https://osf.io/ygy5e/">Open Scienc
 
 <b>Notes on using these files:</b>
 * Only the cleaned dataset is provided because raw data files contain sensitive, confidential information (IP addresses and potentially-identifying demographic information). The data files are SPSS files.
-<br>* The experiment files files were used to run the studies on Project Implicit. These can be used as a codebook to understand what items are available in the dataset. Use a text editor to open them (notepad, notepad++, komodo edit).
+<br>
+* The experiment files files were used to run the studies on Project Implicit. These can be used as a codebook to understand what items are available in the dataset. Use a text editor to open them (notepad, notepad++, komodo edit).
 
 <b>Abstract:</b>
 
